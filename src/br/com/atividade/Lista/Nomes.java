@@ -1,3 +1,5 @@
+package br.com.atividade.Lista;
+
 public class Nomes {
     private String nome;
 

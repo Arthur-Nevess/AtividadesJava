@@ -1,4 +1,4 @@
-package NovasAtividades;
+package NovasAtividades.Inteiros;
 
 import java.util.Random;
 
